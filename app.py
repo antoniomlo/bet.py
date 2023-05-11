@@ -33,7 +33,7 @@ st.sidebar.markdown(
 
 
 st.image(
-    "https://github.com/antoniomlo/streamlit/blob/main/API/LinkedIn%20cover%20-%202.png?raw=true"
+    "https://github.com/antoniomlo/bet.py/blob/master/LinkedIn%20cover%20-%202.png?raw=true"
 )
 # Criando a instância da API
 api = Api888Sport()
