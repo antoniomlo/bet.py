@@ -10,24 +10,34 @@ st.set_page_config(
 )
 
 st.sidebar.markdown(
-    "<div align='center'><img src='https://github.com/antoniomlo/Data_Science/blob/main/img/amlo-1.png?raw=true' width='100'></div>",
+    "<div align='center'><img src='https://github.com/antoniomlo/logos/blob/main/Logo/Vector.png?raw=true' width='250'></div>",
     unsafe_allow_html=True,
 )
 st.sidebar.title(" ")
 st.sidebar.title(" ")
 st.sidebar.title("""😁 Olá, seja bem-vindo(a)""")
-st.sidebar.write(
-    """Aqui você encontra as odds das principais ligas do mundo!"""
-)
+st.sidebar.markdown("""Aqui você encontra as odds das principais ligas do mundo!""")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+st.sidebar.title(" ")
+
 st.sidebar.subheader(
     """🚀 [Portfólio](https://www.figma.com/proto/BlN1MI7h6WY9FadR1yufiu/Portf%C3%B3lio?page-id=0%3A1&type=design&node-id=314-165&viewport=-15%2C627%2C0.12&scaling=scale-down&starting-point-node-id=314%3A165&hotspot-hints=0)"""
 )
-st.sidebar.subheader("""✉️ Contato""")
 st.sidebar.markdown(
     """
 <a href="mailto:antoniomlm26@gmail.com" target="_blank"><img width=35 src="https://i.redd.it/izqwm1g21b751.png"/></a>
 <a href="https://www.linkedin.com/in/antoniomlo/" target="_blank"><img width=50 src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"/></a>
 """,
+    unsafe_allow_html=True)
+
+st.sidebar.markdown(
+    "<div align='center'><img src='https://github.com/antoniomlo/Data_Science/blob/main/img/amlo-1.png?raw=true' width='60'></div>",
     unsafe_allow_html=True,
 )
 
