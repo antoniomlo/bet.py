@@ -13,9 +13,10 @@ st.sidebar.markdown(
     "<div align='center'><img src='https://github.com/antoniomlo/logos/blob/main/Logo/bet.py.png?raw=true' width='100'></div>",
     unsafe_allow_html=True,
 )
-st.sidebar.title(" ")
 st.sidebar.title("""😁 Olá, seja bem-vindo(a)""")
 st.sidebar.markdown("""Aqui você encontra as odds das principais ligas do mundo!""")
+
+st.image("https://github.com/antoniomlo/bet.py/blob/master/LinkedIn%20cover%20-%202.png?raw=true")  
 
 # Criando a instância da API
 api = Api888Sport()
@@ -101,8 +102,4 @@ st.sidebar.markdown(
     "<div align='center'><img src='https://github.com/antoniomlo/Data_Science/blob/main/img/amlo-1.png?raw=true' width='60'></div>",
     unsafe_allow_html=True,
 )
-
-
-st.image(
-    "https://github.com/antoniomlo/bet.py/blob/master/LinkedIn%20cover%20-%202.png?raw=true"
-)        
+      
