@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 st.sidebar.markdown(
-    "<div align='center'><img src='https://github.com/antoniomlo/logos/blob/main/Logo/Vector.png?raw=true' width='250'></div>",
+    "<div align='center'><img src='https://github.com/antoniomlo/logos/blob/main/Logo/bet.py.png?raw=true' width='250'></div>",
     unsafe_allow_html=True,
 )
 st.sidebar.title(" ")
