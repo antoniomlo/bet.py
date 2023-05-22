@@ -10,10 +10,9 @@ st.set_page_config(
 )
 
 st.sidebar.markdown(
-    "<div align='center'><img src='https://github.com/antoniomlo/logos/blob/main/Logo/bet.py.png?raw=true' width='250'></div>",
+    "<div align='center'><img src='https://github.com/antoniomlo/logos/blob/main/Logo/bet.py.png?raw=true' width='100'></div>",
     unsafe_allow_html=True,
 )
-st.sidebar.title(" ")
 st.sidebar.title(" ")
 st.sidebar.title("""😁 Olá, seja bem-vindo(a)""")
 st.sidebar.markdown("""Aqui você encontra as odds das principais ligas do mundo!""")
